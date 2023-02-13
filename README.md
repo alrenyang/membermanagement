@@ -28,5 +28,7 @@ git branch -M main
 git remote add origin https://github.com/alrenyang/membermanagement.git
 git push -u origin main
 
+
+update 2월13일
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
